@@ -341,3 +341,117 @@
 2024-12-16 10:11:07,774 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
 2024-12-16 10:11:09,829 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
 2024-12-16 10:11:09,830 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:17:56,848 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:17:56,849 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:17:56,923 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 10:17:56,924 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:17:59,557 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:17:59,559 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:19:08,894 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:19:08,895 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:19:08,975 - pyMMF.solv [INFO   ]  Found 3 modes in 0.08 seconds.
+2024-12-16 10:19:08,976 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:19:11,191 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:19:11,192 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:19:11,549 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:19:11,550 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:19:11,620 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 10:19:11,621 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:19:13,756 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:19:13,757 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:39:10,656 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:39:10,657 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:39:10,729 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 10:39:10,730 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:39:13,232 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:39:13,234 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:39:13,660 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:39:13,662 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:39:13,725 - pyMMF.solv [INFO   ]  Found 3 modes in 0.06 seconds.
+2024-12-16 10:39:13,726 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:39:15,741 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:39:15,743 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:41:57,420 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:41:57,421 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:41:57,509 - pyMMF.solv [INFO   ]  Found 3 modes in 0.09 seconds.
+2024-12-16 10:41:57,510 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:41:59,747 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:41:59,748 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:42:00,171 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:42:00,172 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:42:00,249 - pyMMF.solv [INFO   ]  Found 3 modes in 0.08 seconds.
+2024-12-16 10:42:00,250 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:42:02,446 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:42:02,447 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:54:33,657 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:54:33,658 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:54:33,728 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 10:54:33,728 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:54:36,479 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:54:36,481 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 10:54:36,900 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 10:54:36,901 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 10:54:36,964 - pyMMF.solv [INFO   ]  Found 3 modes in 0.06 seconds.
+2024-12-16 10:54:36,965 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 10:54:39,121 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 10:54:39,122 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:04:39,960 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:04:39,961 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:04:40,023 - pyMMF.solv [INFO   ]  Found 3 modes in 0.06 seconds.
+2024-12-16 11:04:40,024 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:04:42,541 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:04:42,544 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:04:42,949 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:04:42,950 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:04:43,018 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 11:04:43,019 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:04:44,992 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:04:44,993 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:19:11,378 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:19:11,379 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:19:11,450 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 11:19:11,451 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:19:14,149 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:19:14,151 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:19:14,543 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:19:14,544 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:19:14,606 - pyMMF.solv [INFO   ]  Found 3 modes in 0.06 seconds.
+2024-12-16 11:19:14,607 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:19:16,651 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:19:16,653 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:39:46,658 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:39:46,659 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:39:46,729 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 11:39:46,729 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:39:49,192 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:39:49,194 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:39:49,610 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:39:49,611 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:39:49,672 - pyMMF.solv [INFO   ]  Found 3 modes in 0.06 seconds.
+2024-12-16 11:39:49,673 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:39:51,669 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:39:51,670 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:55:15,837 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:55:15,838 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:55:15,906 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 11:55:15,907 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:55:18,374 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:55:18,376 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:55:18,935 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:55:18,937 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:55:19,005 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 11:55:19,006 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:55:21,030 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:55:21,031 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:56:58,042 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:56:58,043 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:56:58,118 - pyMMF.solv [INFO   ]  Found 3 modes in 0.07 seconds.
+2024-12-16 11:56:58,119 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:57:00,228 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:57:00,229 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2024-12-16 11:57:00,602 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2024-12-16 11:57:00,603 - pyMMF.solv [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2024-12-16 11:57:00,664 - pyMMF.solv [INFO   ]  Found 3 modes in 0.06 seconds.
+2024-12-16 11:57:00,665 - pyMMF.solv [INFO   ]  Finding analytical LP mode profiles associated to the propagation constants.
+2024-12-16 11:57:02,669 - pyMMF.solv [INFO   ]  Found 3 LP mode profiles in 0.0 minutes.
+2024-12-16 11:57:02,671 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
